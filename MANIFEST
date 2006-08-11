@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/WWW-MySpaceBot.t
+lib/WWW/MySpaceBot.pm
+eg/acceptfriends.pl

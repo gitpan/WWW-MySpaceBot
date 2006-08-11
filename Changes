@@ -1,0 +1,6 @@
+Revision history for Perl extension WWW::MySpaceBot.
+
+0.01  Fri Aug 11 16:11:42 2006
+	- original version; created by h2xs 1.23 with options
+		-X -n WWW::MySpaceBot
+

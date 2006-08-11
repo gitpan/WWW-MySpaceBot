@@ -1,0 +1,28 @@
+WWW-MySpaceBot version 0.01
+===========================
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+DEPENDENCIES
+
+This module requires these other modules and libraries:
+
+  strict
+  warnings
+  LWP::UserAgent
+  LWP::ConnCache
+  HTTP::Cookies
+  Data::Dumper
+
+COPYRIGHT AND LICENCE
+
+Released under the same terms as Perl itself.
+
+
